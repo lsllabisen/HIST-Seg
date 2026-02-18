@@ -1,0 +1,31 @@
+mode: train
+
+gpu: 1
+
+data:
+  root_dataset: "/media/nas/LSL_Team/Data/2025_HYPOCHIR_Dataset"
+  subjects_train: ["B0001","B0002","B0003","B0004","B0005","B0006","B0007","B0008"]
+  output_json_train: "Dataset/images_list_train.json"
+  csv_train: "Dataset/Data_paths_train.csv"
+  subjects_test: ["B0009","B0010"]
+  output_json_test: "Dataset/images_list_test.json"
+  csv_test: "Dataset/Data_paths_test.csv"
+
+model:
+  arch: "mobilenet_v2"     # resnet18 / resnet34 / resnet50 / efficientnet_b5…
+  in_channels: 192
+  num_classes: 7
+
+training:
+  batch_size: 5
+  num_epochs: 100
+  lr: 0.0001
+  logs_dir: "Results/logsUnet2DMobileNet"
+
+testing:
+  batch_size: 5
+  results_dir: "Results/test_results/" 
+  results_file: "test_metrics.txt"  
+
+output:
+  save_predictions_dir: "Results/predictions/"
