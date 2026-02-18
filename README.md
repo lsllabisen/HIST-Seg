@@ -147,7 +147,7 @@ If you use this dataset or code, please cite our works:
 
 ```bibtex
 @data{AHCDataSet,
-author = {Aya HAGE CHEHADE and Mohammed El Amine Bechar and Nadine Abdallah Saab and Bouchra Abdel Aziz and Olga Assainova and Chafiaa Hamitouche and Marwa El Bouz},
+author = {Aya Hage Chehade and Mohammed El Amine Bechar and Nadine Abdallah Saab and Bouchra Abdel Aziz and Olga Assainova and Chafiaa Hamitouche and Marwa El Bouz},
 publisher = {},
 title = {{HIST-Seg: A Semantically Annotated Hyperspectral Imaging Dataset for Surgical Tissue Segmentation}},
 year = {2025},
