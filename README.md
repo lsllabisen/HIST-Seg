@@ -64,7 +64,7 @@ The dataset is intended for scientific research purposes only and not for commer
 However, commercial use may be permitted upon request and authorization.
 
 You can access the dataset here:  
-....
+https://yncrea-my.sharepoint.com/:f:/g/personal/aya_hage-chehade_isen-ouest_yncrea_fr/IgDV-_a5qLtYT7CEKTKb10AqASD4MndsRKuqXKJIhgWnnuQ?e=Ib1uha
 
 
 ## Baseline segmentation models
@@ -137,7 +137,7 @@ The inference segmentation result for the chosen test image (e.g., index 3) is s
 This dataset and code are released for **non-commercial research and academic use only**.
 
 If you intend to use this work for commercial or industrial purposes, please contact:
-- ...
+- PhD. Marwa El Bouz - marwa.el-bouz@isen-ouest.yncrea.fr
 ---
 
 
