@@ -64,7 +64,7 @@ The dataset is intended for scientific research purposes only and not for commer
 However, commercial use may be permitted upon request and authorization.
 
 You can access the dataset here:  
-https://yncrea-my.sharepoint.com/:f:/g/personal/aya_hage-chehade_isen-ouest_yncrea_fr/IgDV-_a5qLtYT7CEKTKb10AqASD4MndsRKuqXKJIhgWnnuQ?e=Ib1uha
+https://doi.org/10.57745/5N62WB
 
 
 ## Baseline segmentation models
