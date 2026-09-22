@@ -146,14 +146,13 @@ If you intend to use this work for commercial or industrial purposes, please con
 If you use this dataset or code, please cite our works:
 
 ```bibtex
-@data{AHCDataSet,
-author = {Aya Hage Chehade and Mohammed El Amine Bechar and Nadine Abdallah Saab and Bouchra Abdel Aziz and Olga Assainova and Chafiaa Hamitouche and Marwa El Bouz},
-publisher = {},
+@data{AHC2026HISTSegDataSet,
 title = {{A Semantically Annotated Ex Vivo Orthopedic Hyperspectral Imaging Dataset for Surgical Tissue Segmentation}},
+author = {Hage Chehade, Aya and Bechar, Mohammed El Amine and Abdallah Saab, Nadine and Abdel Aziz, Bouchra and Assainova, Olga and Hamitouche, Chafiaa and El Bouz, Marwa},
+journal={Scientific Data},
+publisher = {Nature Publishing Group UK London},
 year = {2026},
-version = {V1},
-doi = {},
-url = {}
+doi = {10.1038/s41597-026-08319-4}
 }
 ```
 
